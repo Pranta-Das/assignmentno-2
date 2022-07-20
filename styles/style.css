@@ -333,3 +333,11 @@ hr {
 .bl-pg2{
     text-align: center;
 }
+.blog-title .pg-2{
+    background-color: red;
+    color: white;
+}
+.blog-title .pg-21{
+    background-color: white;
+    color: #161616;
+}
