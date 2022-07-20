@@ -23,6 +23,8 @@ main {
     
 
 }
+/* Banner styles */
+
 
 .banner-content {
     color: #ffff;
@@ -57,7 +59,7 @@ main {
     z-index: 88;
 }
 
-/* Banner styles */
+
 .top-banner {
     
     border-radius: 30px;
@@ -85,6 +87,8 @@ main {
 }
 
 /* blog styls */
+
+
 .blogs {
     display: grid;
     grid-template-columns: repeat(4, 1fr);
@@ -347,10 +351,10 @@ hr {
 
 /* page-2 css */
 .blog-image .flag-1{
-    width: 100px;
+    width: 90px;
 }
 .blog-image .flag-2{
-    width: 100px;
+    width: 90px;
 }
 .bl-im2{
     display: flex;
