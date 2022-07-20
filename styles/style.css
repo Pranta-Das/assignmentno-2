@@ -192,6 +192,18 @@ hr {
     font-weight: 400;
     font-size: 16px;
 }
+.footer-info> a{
+    color: whitesmoke;
+    padding: 21px;
+    margin-top: 20px;
+    font-weight: 700;
+    font-size: 20px;
+}
+/* tablet mood buttons css */
+.tablet-btn{
+    
+    display: none;
+}
 
 
 /* media query start */
@@ -307,6 +319,24 @@ hr {
     
     .blog-details{
         width: 50%;
+    }
+    .tablet-btn{
+        display: inline-block;
+    }
+    .tablet-btn{
+        display: flex;
+        justify-content: center;
+        margin: 20px 0;
+        
+    }
+    .tablet-btn a{
+        
+        padding: 10px 20px;
+        background-color: red;
+        color: white;
+        text-decoration: none;
+        border-radius: 10px;
+    
     }
     
 }
